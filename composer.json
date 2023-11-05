@@ -1,5 +1,5 @@
 {
-	"name": "3brs/sylius-payment-fee-plugin",
+	"name": "madestuff/sylius-payment-fee-plugin",
 	"type": "sylius-plugin",
 	"description": "Payment fee plugin for Sylius.",
 	"license": "MIT",
